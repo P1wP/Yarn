@@ -1,0 +1,11 @@
+{
+  "name": "Yarn_nuxt-Test",
+  "version": "1.0.0",
+  "description": "Workflow2 week 2 MA q 8&9",
+  "main": "index.js",
+  "author": "Joachim",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
